@@ -30,6 +30,9 @@
 		}
 		
 	</script>
+	<a title="Privacy-friendly Web Analytics" href="https://clicky.com/101491244"></a>
+<script async data-id="101491244" src="//static.getclicky.com/js"></script>
+
 	<script src="noir.js"></script>
 
 	<script>
